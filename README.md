@@ -1,3 +1,3 @@
-# mimir.js
+# halyard.js
 Coming soon
-"# halyard" 
+

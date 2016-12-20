@@ -1,0 +1,25 @@
+{
+  "name": "halyard.js",
+  "version": "0.0.1",
+  "description": "Coming soon",
+  "main": "halyard.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanEnberg/halyard.js.git"
+  },
+  "keywords": [
+    "Halyard.js"
+  ],
+  "author": {
+    "name": "Stefan Enberg",
+    "email": "stefan.enberg@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StefanEnberg/halyard.js/issues"
+  },
+  "homepage": "https://github.com/StefanEnberg/halyard.js"
+}
